@@ -10,18 +10,35 @@
           {
             "id": "e5d671aeb0808a7f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/13 - Validating Reliability.md",
+                "file": "NOTES LOCATIONS.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "NOTES LOCATIONS"
+            }
+          },
+          {
+            "id": "589f4871643dcdf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES LOCATIONS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 - Validating Reliability"
+              "title": "NOTES LOCATIONS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a74d661a7349b6d5",
@@ -169,53 +186,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "e5d671aeb0808a7f",
+  "active": "589f4871643dcdf2",
   "lastOpenFiles": [
-    "Kafka/12 - Reliability.md",
-    "Kafka/13 - Validating Reliability.md",
-    "Kafka/11 Standalone Consumer (Consumer Without a Group).md",
-    "Kafka/10 Exiting Poll Loop.md",
-    "Kafka/09 Rebalance Listeners.md",
-    "Kafka/08 Commits & Offsets.md",
-    "Pasted image 20250903164103.png",
-    "Pasted image 20250903164051.png",
-    "Kafka/07 KafkaConsumer.md",
-    "Kafka/06 Reading.md",
-    "Pasted image 20250903163822.png",
-    "Pasted image 20250903163811.png",
-    "Kafka/05 Interceptors.md",
-    "Kafka/04 Headers.md",
-    "Kafka/03 Partitions.md",
-    "Kafka/02 KafkaProducer.md",
-    "Pasted image 20250903163611.png",
-    "Kafka/01 Writing.md",
-    "Pasted image 20250903163302.png",
-    "Kafka/01 Intro.md",
-    "Pasted image 20250903163230.png",
-    "Pasted image 20250903163214.png",
-    "Kafka/00 Cheat Sheet.md",
-    "Pasted image 20250903163045.png",
-    "Kafka/imagex",
-    "Pasted image 20250903163145.png",
-    "Databases.md",
-    "Kafka",
-    "In OneNote.md",
-    "HTTP/images",
-    "Cloud Native/04 Containers.md",
-    "Cloud Native/images",
-    "Cloud Native/03 Cattle, Not Pets.md",
-    "Cloud Native/02 Security.md",
-    "Cloud Native/01 Overview.md",
-    "HTTP/02 HTTP2 in Java 11.md",
-    "Cloud Native",
-    "HTTP/01 HTTP2 vs HTTP1.1.md",
-    "HTTP.md",
-    "HTTP",
-    "JavaScript/12 Testing/05 Chai - assert, should, expect.md",
-    "JMS/JMS.md",
-    "JMS",
-    "Java",
-    "JavaScript/12 Testing/images",
-    "JavaScript/11 Forms & Controls/images"
+    "Kubernetes/04 Services & Networking/images/Pasted image 20250903211056.png",
+    "Kubernetes/04 Services & Networking/images/Pasted image 20250903211219.png",
+    "Kubernetes/04 Services & Networking/images/Pasted image 20250903212109.png",
+    "Kubernetes/04 Services & Networking/images",
+    "Kubernetes/04 Services & Networking/images/Pasted image 20250903211241.png",
+    "Kubernetes/04 Services & Networking/images/Pasted image 20250903211519.png",
+    "NOTES LOCATIONS.md",
+    "Kubernetes/06 Spring Boot Support/02 Graceful Shutdown.md",
+    "Kubernetes/06 Spring Boot Support/01 Liveness & Readiness.md",
+    "Kubernetes/05 State Persistence/02 Persistent Volumes.md",
+    "Kubernetes/05 State Persistence/01 Volumes.md",
+    "Kubernetes/04 Services & Networking/02 ClusterIP.md",
+    "Kubernetes/02 API Objects/08 CronJob.md",
+    "Kubernetes/02 API Objects/07 Job.md",
+    "Kubernetes/02 API Objects/06 LimitRange.md",
+    "Kubernetes/02 API Objects/05 ServiceAccount.md",
+    "Kubernetes/02 API Objects/04 Secret.md",
+    "Kubernetes/02 API Objects/03 ConfigMap.md",
+    "Kubernetes/02 API Objects/02 ResourceQuota.md",
+    "Kubernetes/02 API Objects/01 Namespace.md",
+    "Kubernetes/03 Configuration/01 Resource Requirements.md",
+    "Kubernetes/03 Configuration/02 Taints & Tolerations.md",
+    "Kubernetes/03 Configuration/03 Node Selectors & Affinity.md",
+    "Kubernetes/03 Configuration/04 Environment Variables.md",
+    "Kubernetes/03 Configuration/05 ENTRYPOINT & CMD.md",
+    "Kubernetes/03 Configuration/06 Labels.md",
+    "Kubernetes/03 Configuration/07 Readiness & Liveness.md",
+    "Kubernetes/04 Services & Networking/01 Intro.md",
+    "Kubernetes/04 Services & Networking/03 NodePort.md",
+    "Kubernetes/04 Services & Networking/04 LoadBalancer.md",
+    "Kubernetes/04 Services & Networking/05 Ingress.md",
+    "Kubernetes/04 Services & Networking/images/Pasted image 20250903211447.png",
+    "Kubernetes/04 Services & Networking/images/Pasted image 20250903211144.png",
+    "Kubernetes/03 Configuration/images/Pasted image 20250903210747.png",
+    "Kubernetes/03 Configuration/images",
+    "Kubernetes/02 API Objects/images",
+    "Kubernetes/02 API Objects/images/Pasted image 20250903210045.png",
+    "Kubernetes/01 Intro/images/Pasted image 20250903204032.png",
+    "Kubernetes/01 Intro/Untitled",
+    "Kubernetes/07 Helm",
+    "Kubernetes/06 Spring Boot Support",
+    "Kubernetes/05 State Persistence",
+    "Kubernetes/04 Services & Networking",
+    "Kubernetes/03 Configuration",
+    "Kubernetes/02 API Objects"
   ]
 }
