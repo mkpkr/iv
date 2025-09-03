@@ -12,25 +12,6 @@
 - work laptop
 - at some point merge into GitHub Obsidian
 
-
-# Bitbucket - .md COPY WHOLE
-
-- work on the `clean` branch
-
-- **IV**
-- **Java**
-- **REST API**
-- **Spring**
-- **System Design**
-- Data Stores
-	- Relational
-		- **SQL**
-		- **Acid**
-	- **MongoDB**
-	- Redis
-- **Data Structures & Algorithms**
-- AWS
-
 # OneNote - WRITE UP
 
 - **IV**
@@ -41,7 +22,7 @@
 	- **System Design**
 	- **FedEx**
 	- **IG**
-- **Java**
+- ==**Java** --- CURRENTLY WORKING ON==
 - **Spring**
 - Angular
 - AWS
@@ -54,3 +35,22 @@
 - ~~JavaScript -  written to MD~~
 - Splunk
 
+
+# Bitbucket - .md COPY WHOLE
+
+- work on the `clean` branch
+
+- **IV**
+- **Java** 
+- **REST API**
+- **Spring**
+- **System Design**
+- Data Stores
+	- Relational
+		- **SQL**
+		- **Acid**
+	- **MongoDB**
+	- Redis
+- **Data Structures & Algorithms**
+- AWS
+- much more
