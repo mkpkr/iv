@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "98f598a72a67e10e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eb90ed6e061aa44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "738ca738c390c24d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Basics/21 Template Literals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21 Template Literals"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "625ce0771cf9b553",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c483f68489202ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fdc52606a6e78ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "57ec6dd2978393c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8fa622d9ae8dfde1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a74d661a7349b6d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6411ac7582b565c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50c4df31e4ec7899",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript/Basics/21 Template Literals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 21 Template Literals"
+            }
+          },
+          {
+            "id": "5c684f3020cd3221",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript/Basics/21 Template Literals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 21 Template Literals"
+            }
+          },
+          {
+            "id": "db3309c1e9f8d4b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "941625a4cab29589",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript/Basics/21 Template Literals.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 21 Template Literals"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "738ca738c390c24d",
+  "lastOpenFiles": [
+    "JavaScript/Basics/00 Start.md",
+    "JavaScript",
+    "JavaScript/Basics/05 Functions.md",
+    "JavaScript/Basics/images/Pasted image 20250903104135.png",
+    "JavaScript/Basics/03 JSDoc.md",
+    "JavaScript/Basics/images",
+    "JavaScript/Basics/images/Pasted image 20250903104656.png",
+    "JavaScript/Basics/22 Tagged Template.md",
+    "JavaScript/Basics/images/Pasted image 20250903110051.png",
+    "JavaScript/Basics/21 Template Literals.md",
+    "JavaScript/Basics/20 CORS.md",
+    "JavaScript/Basics/19 Rest & Spread.md",
+    "JavaScript/Basics/18 Primitive Methods.md",
+    "JavaScript/Basics/17 Object to Primitive.md",
+    "JavaScript/Basics/16 Symbol.md",
+    "JavaScript/Basics/15 Transpilers & Polyfills.md",
+    "JavaScript/Basics/14 Stack, Heap, Pass By Value.md",
+    "JavaScript/Basics/images/Pasted image 20250903105637.png",
+    "JavaScript/Basics/13 Getters & Setters.md",
+    "JavaScript/Basics/12 this.md",
+    "JavaScript/Basics/images/Pasted image 20250903105437.png",
+    "JavaScript/Basics/11 Dynamic Properties (Cool Syntax).md",
+    "JavaScript/Basics/10 console.dir().md",
+    "JavaScript/Basics/images/Pasted image 20250903105322.png",
+    "JavaScript/Basics/09 The Old var.md",
+    "JavaScript/Basics/08 Operators & Constructs.md",
+    "JavaScript/Basics/07 Import Export.md",
+    "JavaScript/Basics/06 Shadowed Variables.md",
+    "JavaScript/Basics/images/Pasted image 20250903105038.png",
+    "JavaScript/Basics/04 Truthy & Falsy.md",
+    "JavaScript/Basics/02 Event Loop, Microtasks, Macrotasks.md",
+    "JavaScript/Basics/01 Debug in VSCode.md",
+    "JavaScript/Basics/images/Pasted image 20250903104807.png",
+    "JavaScript/Basics/images/Pasted image 20250903104748.png",
+    "JavaScript/Basics"
+  ]
+}
