@@ -1,0 +1,1 @@
+[https://javascript.info/long-polling](https://javascript.info/long-polling)

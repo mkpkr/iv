@@ -1,0 +1,1 @@
+[https://javascript.info/forms-submit](https://javascript.info/forms-submit)
