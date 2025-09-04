@@ -27,12 +27,14 @@
             "id": "eb9973bc47c67e1c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Java/04 Modern Java/images/Pasted image 20250904203332.png"
+                "file": "Java/05 Reactive Programming/01 Intro.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250904203332"
+              "icon": "lucide-file",
+              "title": "01 Intro"
             }
           },
           {
@@ -198,6 +200,12 @@
   },
   "active": "2fdc52606a6e78ee",
   "lastOpenFiles": [
+    "Java/05 Reactive Programming/images",
+    "Java/05 Reactive Programming/02 Reactive Manifesto.md",
+    "Java/05 Reactive Programming/images/Pasted image 20250904233103.png",
+    "Java/05 Reactive Programming/01 Intro.md",
+    "Java/06 Misc/WeakReference vs SoftReference.md",
+    "Java/04 Modern Java/images/Pasted image 20250904203332.png",
     "Java/04 Modern Java/08 Date & Time.md",
     "Java/04 Modern Java/images/Pasted image 20250904232137.png",
     "Java/04 Modern Java/images/Pasted image 20250904232030.png",
@@ -213,8 +221,6 @@
     "Java/04 Modern Java/04.1 Reference & Examples.md",
     "Java/04 Modern Java/04 Collectors.md",
     "Java/04 Modern Java/03.5 flatMap().md",
-    "Java/04 Modern Java/images/Pasted image 20250904211300.png",
-    "Java/04 Modern Java/images/Pasted image 20250904203332.png",
     "Java/04 Modern Java/images",
     "Java/04 Modern Java/03.4 Other Source of Streams.md",
     "Java/04 Modern Java/03.3 IntStream, LongStream, DoubleStream.md",
@@ -232,9 +238,6 @@
     "Java/03 Performance/11 Flight Recorder & Mission Control.md",
     "Java/03 Performance/10 JIT Compilation.md",
     "Java/03 Performance/09 GC - Configuration Parameters.md",
-    "Java/03 Performance/08 GC - Parallel Collector.md",
-    "Java/03 Performance/07 GC - G1 Collector.md",
-    "Java/03 Performance/06 GC – Mark & Sweep Algorithm.md",
     "Java/02 Concurrency Practical/images",
     "Java/01 Concurrency Theory/images",
     "Java/06 Misc",
