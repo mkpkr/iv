@@ -1,9 +1,7 @@
-
 - Well Grounded Java Developer (2nd Edition)
 	- Done: 1,3,5, 6,7,16(half),18
 	- Not done: 2,4,8-15,17
-
-# GitHub Obsidian - THIS
+# GitHub Obsidian - THIS - /Users/Mike/iv
 
 - **the master** 
 - home laptop
@@ -11,7 +9,6 @@
 
 - work laptop
 - at some point merge into GitHub Obsidian
-
 # OneNote - WRITE UP
 
 - **IV**
@@ -35,8 +32,7 @@
 - ~~JavaScript -  written to MD~~
 - Splunk
 
-
-# Bitbucket - .md COPY WHOLE
+# Bitbucket - .md COPY WHOLE - /Users/Mike/iv-bb/iv
 
 - work on the `clean` branch
 
