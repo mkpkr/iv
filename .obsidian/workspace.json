@@ -29,12 +29,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/05 Reactive Programming/01 Intro.md",
+                "file": "Spring/Testing/@DynamicPropertySource.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Intro"
+              "title": "@DynamicPropertySource"
+            }
+          },
+          {
+            "id": "5e20f20fb2bfa69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Misc/defaultZone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "defaultZone"
+            }
+          },
+          {
+            "id": "2af104cb8f8848cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Misc/Graceful Shutdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graceful Shutdown"
+            }
+          },
+          {
+            "id": "5f8a8c116a77b443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES LOCATIONS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NOTES LOCATIONS"
             }
           },
           {
@@ -50,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,12 +240,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "2fdc52606a6e78ee",
+  "active": "5f8a8c116a77b443",
   "lastOpenFiles": [
+    "Spring/Misc/Graceful Shutdown.md",
+    "Spring/Misc/Untitled 3.md",
+    "Spring/Misc/Untitled 2.md",
+    "Spring/Testing/@DynamicPropertySource.md",
+    "Spring/Testing/Testcontainers - Don't Start Embedded DB.md",
+    "Kubernetes/02 API Objects/02 ResourceQuota.md",
+    "Spring/Misc/defaultZone.md",
+    "Spring/Misc",
+    "Spring/Testing/Spring Security.md",
+    "Spring/Testing/Overriding Beans.md",
+    "Spring/Testing/@Configuration & @TestConfiguration.md",
+    "NOTES LOCATIONS.md",
+    "Spring/Testing",
+    "Spring",
+    "Java/05 Reactive Programming/01 Intro.md",
     "Java/05 Reactive Programming/images",
     "Java/05 Reactive Programming/02 Reactive Manifesto.md",
     "Java/05 Reactive Programming/images/Pasted image 20250904233103.png",
-    "Java/05 Reactive Programming/01 Intro.md",
     "Java/06 Misc/WeakReference vs SoftReference.md",
     "Java/04 Modern Java/images/Pasted image 20250904203332.png",
     "Java/04 Modern Java/08 Date & Time.md",
@@ -226,25 +282,11 @@
     "Java/04 Modern Java/03.3 IntStream, LongStream, DoubleStream.md",
     "Java/04 Modern Java/03.2 Intermediate Operations.md",
     "Java/04 Modern Java/03.1 Terminal Operations.md",
-    "NOTES LOCATIONS.md",
     "Java/04 Modern Java/03 Streams.md",
-    "Java/04 Modern Java/02.3 Useful Methods.md",
-    "Java/04 Modern Java/02.2 Constructor References.md",
-    "Java/04 Modern Java/02.1 Method References.md",
-    "Java/04 Modern Java/02 Lambdas.md",
-    "Java/04 Modern Java/01 FunctionalInterface.md",
     "Java/03 Performance/images",
-    "Java/03 Performance/12 Tips.md",
-    "Java/03 Performance/11 Flight Recorder & Mission Control.md",
-    "Java/03 Performance/10 JIT Compilation.md",
-    "Java/03 Performance/09 GC - Configuration Parameters.md",
     "Java/02 Concurrency Practical/images",
     "Java/01 Concurrency Theory/images",
     "Java/06 Misc",
-    "Java/05 Reactive Programming",
-    "Java/04 Modern Java",
-    "Java/02 Concurrency Practical",
-    "Java/03 Performance",
-    "Java/01 Concurrency Theory"
+    "Java/05 Reactive Programming"
   ]
 }

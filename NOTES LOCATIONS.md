@@ -11,7 +11,7 @@
 - at some point merge into GitHub Obsidian
 # OneNote - WRITE UP
 
-- **IV**
+- ==**IV**==
 	- **IV - Lots of questions and notes**
 	- **Design Patterns**
 	- **Effective Java**
@@ -19,8 +19,6 @@
 	- **System Design**
 	- **FedEx**
 	- **IG**
-- ==**Java** --- CURRENTLY WORKING ON==
-- **Spring**
 - Angular
 - AWS
 - Cassandra
@@ -29,8 +27,11 @@
 - ~~Kafka - written to MD~~
 - Kafka Streams
 - ~~Kubernetes - written to MD~~
+-  ~~Java -  written to MD~~
 - ~~JavaScript -  written to MD~~
 - Splunk
+- ~~Spring -  written to MD~~
+- Spring Cloud
 
 # Bitbucket - .md COPY WHOLE - /Users/Mike/iv-bb/iv
 
@@ -49,4 +50,6 @@
 	- Redis
 - **Data Structures & Algorithms**
 - AWS
+- Docker
+- Testing Frameworks
 - much more
